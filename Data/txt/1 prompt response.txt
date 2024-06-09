@@ -1,0 +1,12 @@
+Prompt: Hello
+How can I purchase the alpha product mentioned in the context provided?
+Prompt: What is XYZ product?
+XYZ stands for XX YY ZZ Unit. It is a device that is installed at the @@@@@@@@, and @@@@@@
+Prompt: tell me about  beta
+SVT200-A is an "hiding the original answer due to privacy"
+Prompt: what are its ti range
+The ti range of x varies from 525252 to 727272.
+Prompt: whom can i contact for more info
+You can contact www.not a real website name due to privacy     .com
+Prompt: who are you
+I am an AI assistant here to help answer your questions based on the information provided. How can I assist you today?
